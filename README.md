@@ -17,3 +17,5 @@ Here are some of the advantages of using the MNIST dataset for digit recognition
 
 ## Output
 ![Output](https://github.com/Ahmad10Raza/Digit-Recognization/blob/master/HDR.png)
+
+# Thank You!
