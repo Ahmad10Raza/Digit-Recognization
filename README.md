@@ -12,8 +12,10 @@ Here are some of the advantages of using the MNIST dataset for digit recognition
 * **The dataset is open source:** This means that it is freely available to anyone who wants to use it.
 
 ## How To Run Porject:
-1. pip install -r requirements.txt
-2. python app.py
+1. ```python
+   pip install -r requirements.txt
+2. ```python
+   python app.py
 
 ## Output
 ![Output](https://github.com/Ahmad10Raza/Digit-Recognization/blob/master/HDR.png)
